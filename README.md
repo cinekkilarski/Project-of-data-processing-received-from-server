@@ -1,6 +1,16 @@
+Project of data processing received from server - fetching, sorting, filtering.
+Used Technology: React.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+## Install necessary packages
+
+First of all, download and install the latest Node.js source code. After that, in the project directory, run command:
+
+### `npm  install`
+
+## Run project
 
 In the project directory, you can run:
 
