@@ -1,5 +1,5 @@
-Project of data processing received from server - fetching, sorting, filtering.
-Used Technology: React.js
+## Project of data processing received from server - fetching, sorting, filtering.
+## Used Technology: React.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
